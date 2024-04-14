@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>fin</name>
+    <events>
+        <event-block sid="189847920141739">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="169372392138495" type="Keyboard">
+                    <param id="0" name="Key">32</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-9" name="Set value" sid="812006241831912" type="System">
+                    <param id="0" name="Variable">nivel</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+                <action id="-2" name="Go to layout" sid="653825598628351" type="System">
+                    <param id="0" name="Layout">menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="584461060730888">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="547450957753050" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Set text" sid="922746541477871" type="restart">
+                    <param id="0" name="Text">&quot;¡Has ganado! Pulsa espacio para reiniciar. Has destruido &quot; &amp; puntuacion &amp; &quot; enemigos.&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
