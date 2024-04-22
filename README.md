@@ -1,4 +1,5 @@
-## SEMANA 09/04-16/04
+## SEMANA 09/04-15/04
+
 * La semana anterior tuve problemas para subir contenido dado que como el profesor del curso usa Construct 3 (la versión de pago) para dar la clase traté de reproducir el proyecto en la versión gratuita de Construct 3. Como la versión gratuita está altamente limitada tuve que descargarme Construct 2 y reproducir lo que llevaba del proyecto en Construct 2.
 * Como Construct 2 está más limitado que Construct 3 hay cosas del curso que no pude reproducir (como la transición entre distintos niveles).
 * Acabado el primer curso (Curso de Construct 2: Desarrolla videojuegos sin código).
@@ -9,3 +10,7 @@
 * Para ejecutar la práctica guiada hay que abrir el proyecto en un IDE (como VSC) y en la terminal hay que ejecutar el comando "npm run watch". Al cabo de un LARGO rato se abrirá el proyecto en el navegador. Si el proyecto da errores igual es necesario ejecutar "npm install" pero no debería de hacer falta.
 * Phaser no me llama demasiado ya que si quiero hacer juegos para web preferiría usar una herramienta como Construct 2 o incluso pagar por Construct 3, igual cuando haga el curso de adaptar el proyecto de Phaser a Android cambio de opinión.
 
+## SEMANA 16/04-22/04
+
+* Acabado el tercer curso (Curso de desarrollo avanzado de videojuegos con Phaser).
+* La práctica guiada (la cual es una continuación del segundo curso) está publicada en GameJolt [(este enlace)](gamejolt.com/practicaguiada/891841) y también está el código base en el repositorio.
