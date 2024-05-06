@@ -13,4 +13,11 @@
 ## SEMANA 16/04-22/04
 
 * Acabado el tercer curso (Curso de desarrollo avanzado de videojuegos con Phaser).
-* La práctica guiada (la cual es una continuación del segundo curso) está publicada en GameJolt [(este enlace)](gamejolt.com/practicaguiada/891841) y también está el código base en el repositorio.
+* La práctica guiada (la cual es una continuación del segundo curso) está publicada en GameJolt [(este enlace)](https://gamejolt.com/games/practicaguiada/893338) y también está el código base en el repositorio.
+
+## SEMANA 30/04-06/05
+
+* Arreglado el enlace de GameJolt.
+* Acabado el cuarto curso (Convierte tu videojuego Phaser en app para Android).
+* Acabado el quinto curso (Curso de C# para principiantes).
+* Acabado el sexto curso (Curso de C# intermedio).
