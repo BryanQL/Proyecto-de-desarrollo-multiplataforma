@@ -21,3 +21,7 @@
 * Acabado el cuarto curso (Convierte tu videojuego Phaser en app para Android).
 * Acabado el quinto curso (Curso de C# para principiantes).
 * Acabado el sexto curso (Curso de C# intermedio).
+
+## SEMANA 07/05-13/05
+* El juego en GameJolt funciona perfectamente, tarda BASTANTE en cargar pero funciona.
+* Acabado el séptimo curso (Curso de Unity), no adjunto nada porque solo ha explicado como funciona la interfaz de la aplicación y conocimientos super básicos.
