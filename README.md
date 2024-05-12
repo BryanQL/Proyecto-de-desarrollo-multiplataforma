@@ -24,6 +24,11 @@
 
 ## SEMANA 07/05-13/05
 * El juego en GameJolt funciona perfectamente, tarda BASTANTE en cargar pero funciona.
-* Acabado el séptimo curso (Curso de Unity), no adjunto nada porque solo ha explicado como funciona la interfaz de la aplicación y conocimientos super básicos.
-* Acabado el octavo curso (Curso de componentes y API de Unity), adjunto el "proyecto" de Unity, el cual solo contiene scripts porque los objetos que ha usado para enseñar el funcionamiento de los scripts los ha ido creando y borrando para explicarnos como funcionan los scripts.
+* Acabado el séptimo curso (Curso de Unity). No adjunto nada porque solo ha explicado como funciona la interfaz de la aplicación y conocimientos super básicos.
+* Acabado el octavo curso (Curso de componentes y API de Unity). Adjunto el "proyecto" de Unity, el cual solo contiene scripts porque los objetos que ha usado para enseñar el funcionamiento de los scripts los ha ido creando y borrando para explicarnos como funcionan los scripts.
 * Me estaba dando problemas para subir el proyecto por lo que tuve que comprimirlo
+* Acabado el noveno curso (Matemáticas para videojuegos). Adjunto el proyecto de Unity, el cual tiene tanto los scripts usados para explicar los conceptos matemáticos, como varias escenas que contienen los distintos elementos necesarios para mostrar su funcionamiento. Para ver las distintas partes solo hay que abrir el proyecto en Unity, seleccionar las distintas escenas y darle a play.
+* Me ha vuelto a dar problemas al subir un proyecto de Unity entero, por lo que vuelvo a subirlo comprimido. 
+* La escena "Rocket" permite mover el cohete mediante las flechas del teclado.
+* La escena "S05_Quaternions" permite rotar las "naves" usando WASDQE.
+* La escena "S06_Math_Random" contiene un pequeño juego cuyo objetivo es esquivar a los enemigos que van apareciendo de forma aleatoria. Se puede controlar al personaje con WASD o con las flechas del teclado.
