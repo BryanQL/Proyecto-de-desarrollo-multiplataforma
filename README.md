@@ -25,3 +25,5 @@
 ## SEMANA 07/05-13/05
 * El juego en GameJolt funciona perfectamente, tarda BASTANTE en cargar pero funciona.
 * Acabado el séptimo curso (Curso de Unity), no adjunto nada porque solo ha explicado como funciona la interfaz de la aplicación y conocimientos super básicos.
+* Acabado el octavo curso (Curso de componentes y API de Unity), adjunto el "proyecto" de Unity, el cual solo contiene scripts porque los objetos que ha usado para enseñar el funcionamiento de los scripts los ha ido creando y borrando para explicarnos como funcionan los scripts.
+* Me estaba dando problemas para subir el proyecto por lo que tuve que comprimirlo
